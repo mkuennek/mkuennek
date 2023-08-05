@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 💻
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Michael Künneke. I'm a software developer and IT consultant living in Germany. Computers and software have been a part of my life for half of it. What started as an interest in one of many school subjects has become my job but also my hobby.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 👨‍👩‍👦 🇸🇬 🇵🇭
 
+When I'm not occupied dealing with computers, I like to spend time with my wife and my son. As often as time allows we travel around . Our favourite destinations are Singapore , the city of the future, and especially the Philippines with its astonishing nature and welcoming people. And of course because half of our family holds the filipino passport.
 
-[jekyll-organization]: https://github.com/jekyll
+## Contact
+
+- ✉️ [michael@kuenneke.cloud](mailto:michael@kuenneke.cloud)
+- 🐦‍⬛ [@MichaelKunneke](https://twitter.com/MichaelKunneke)
+- Ⓜ️ [@mkuenneke@mastodon.social](https://mastodon.social/@mkuenneke)
